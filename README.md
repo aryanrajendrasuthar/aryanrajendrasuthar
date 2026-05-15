@@ -102,13 +102,6 @@ Smt. Kashibai Navale College of Engineering | 2019 – 2023
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanrajendrasuthar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajendrasuthar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## Contact
 
 - LinkedIn: [linkedin.com/in/aryanrajendrasuthar](https://linkedin.com/in/aryanrajendrasuthar)
