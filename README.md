@@ -1,24 +1,116 @@
-# 💫 About Me:
-👋 Hi, I'm Aryan Suthar & This is my New Github Account. <br><br>🚀 Software Engineer specializing in scalable backend systems, distributed architectures, and cloud-native microservices.<br><br>🔭 Currently building high-performance systems handling thousands of requests and enterprise-scale transactions.<br><br>🤝 Open to collaborating on  <br>- Distributed systems & large-scale backend platforms  <br>- AI/ML & LLM-based applications  <br><br>🌱 Exploring  <br>- Advanced system design (high-scale architectures)  <br>- Kubernetes, cloud infrastructure, and event-driven systems  <br>- LLMs, RAG, and AI-powered platforms  <br><br>💬 Ask me about  <br>- System Design & Scalability  <br>- Java, Python, Node.js  <br>- Kafka, Microservices, REST/gRPC APIs  <br>- AWS, Docker, Kubernetes  <br><br>⚡ Fun fact  <br>- I enjoy solving complex engineering problems and optimizing systems for performance 🚀
+# Aryan Rajendra Suthar
 
+**Software Engineer — Backend Systems, Distributed Architecture, AI/ML**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansuthar53) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanrajendrasuthar@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryanrajendrasuthar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryanrajendrasuthar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajendrasuthar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryanrajendrasuthar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I build scalable backend systems and cloud-native platforms that handle real workloads. My work spans distributed microservices, event-driven architectures, and AI-powered applications across AWS and Azure. Currently completing a Master of Science in Software Engineering at Arizona State University.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryanrajendrasuthar&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Work On
+
+**Backend and Distributed Systems**
+Microservices architecture using Java and Spring Boot, event-driven pipelines with Apache Kafka, high-performance REST and gRPC APIs, Redis caching, and containerized deployments with Docker and Kubernetes. I have built systems processing thousands of daily transactions with sub-100ms response times and 99.9% uptime.
+
+**AI and Machine Learning**
+LLM-based applications using RAG pipelines, LangChain, and vector databases. Multimodal deep learning systems combining computer vision and NLP. Production ML systems with PyTorch, TensorFlow, and MLflow experiment tracking.
+
+**Cloud Infrastructure**
+AWS (EC2, Lambda, S3, SNS, SES) and Azure (AKS, Functions, Service Bus, Blob Storage). CI/CD automation with GitHub Actions and Azure DevOps. Infrastructure as Code with Terraform. Observability with Prometheus and Grafana.
+
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [WorkSafe](https://github.com/aryanrajendrasuthar/WorkSafe) | Enterprise occupational health SaaS — 5 user roles, SAML SSO, TOTP MFA, risk scoring engine, BullMQ background jobs, OSHA compliance | React, NestJS, TypeScript, PostgreSQL, Redis |
+| [Real-Time AI Simulation Tool](https://github.com/aryanrajendrasuthar/Real-Time-AI-Simulation-Tool) | Distributed AI courtroom simulation with multi-agent orchestration and RAG-grounded responses | Python, LangChain, FastAPI, Vector DB |
+| [EmoFusion](https://github.com/aryanrajendrasuthar/EmoFusion) | Multimodal emotion detection system combining computer vision and NLP with late-fusion deep learning | PyTorch, TensorFlow, Computer Vision, NLP |
+| [AI Knowledge Assistant](https://github.com/aryanrajendrasuthar/AI-Knowledge-Assistant) | Production RAG system with vector search, Redis caching, and low-latency document-grounded Q&A | TypeScript, LangChain, FastAPI, Redis |
+| [PhysioApp](https://github.com/aryanrajendrasuthar/Physio-App) | Full-stack physiotherapy rehabilitation platform with analytics and secure multi-role authentication | React, Node.js, PostgreSQL, Express |
+| [Heyy-HP](https://github.com/aryanrajendrasuthar/Heyy-HP) | Personal AI assistant — voice control, YouTube, Apple Reminders sync, Windows automation | Python, OpenAI API, SpeechRecognition |
+| [RandomWordGuess](https://github.com/aryanrajendrasuthar/RandomWordGuess) | Semantic word guessing game using embedding-based similarity scoring | TypeScript, Ollama, Vector Embeddings |
+| [Smart-Quotation-Estimator](https://github.com/aryanrajendrasuthar/Smart-Quotation-Estimator) | Cloud-based quotation management system with PDF generation and edge function architecture | React, Supabase, TypeScript, pdf-lib |
+| [Emergency-SOS](https://github.com/aryanrajendrasuthar/Emergency-SOS) | Real-time emergency alert system with GPS tracking and SMS dispatch | Node.js, Twilio, EJS, Geolocation API |
+
+---
+
+## Tech Stack
+
+**Languages**
+Java, Python, TypeScript, JavaScript, SQL, C#, C++, Bash
+
+**Backend**
+Spring Boot, FastAPI, Node.js, Express.js, .NET Core, NestJS, gRPC, REST APIs
+
+**Frontend**
+React, Next.js, Tailwind CSS, HTML5, CSS3
+
+**Cloud and Infrastructure**
+AWS (EC2, Lambda, S3, SNS, SES), Azure (AKS, Functions, Service Bus), Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps
+
+**Databases and Caching**
+PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase, SQLite
+
+**Streaming and Messaging**
+Apache Kafka, Event-Driven Architecture, Asynchronous Processing
+
+**AI and ML**
+PyTorch, TensorFlow, LangChain, LLMs, RAG, Vector Databases, MLflow, NLP, Computer Vision, scikit-learn, NumPy, Pandas
+
+**Security**
+OAuth2, JWT, RBAC, SAML 2.0, TOTP MFA, TLS Encryption
+
+**Observability**
+Prometheus, Grafana, Distributed Tracing, Structured Logging
+
+---
+
+## Experience
+
+**Software Engineer — Ignite Infosys** (Jan 2021 – May 2023)
+Spring Boot and .NET Core microservices on AWS and Azure, supporting 100K+ active users across 5+ enterprise applications. Kafka streaming pipelines processing 50K+ daily events. React and TypeScript frontends consumed by 100K+ users. CI/CD via Azure DevOps cutting deployment cycle from 2 days to under 4 hours.
+
+**Software Engineer — Jayraj Fabrication** (May 2023 – May 2024)
+Cloud-native ERP platform across 8 microservices using Python, Java Spring Boot, and Node.js. REST and gRPC APIs serving 10K+ daily requests with sub-100ms response times. Redis caching and database indexing improvements boosting backend performance by 40%. Zero critical authentication incidents with OAuth2, JWT, and RBAC.
+
+---
+
+## Education
+
+**Master of Science in Software Engineering**
+Arizona State University — Ira A. Fulton Schools of Engineering | 2024 – 2026
+
+**Bachelor of Engineering in Computer Engineering**
+Smt. Kashibai Navale College of Engineering | 2019 – 2023
+
+---
+
+## Certifications
+
+- Microsoft Azure AI Essentials Professional Certificate — Microsoft and LinkedIn
+- Java Foundations Professional Certificate — JetBrains
+- DevOps Professional Certificate — PagerDuty and LinkedIn
+- Atlassian Agile Project Management Professional Certificate
+- JavaScript Foundations Professional Certificate — Mozilla
+- Career Essentials in Software Development — Microsoft and LinkedIn
+- TestMu AI Software Testing Professional Certificate
+- TestMu AI Test Automation Professional Certificate
+- Microsoft Security Essentials Professional Certificate — Microsoft and LinkedIn
+- Google Analytics Certification — Google
+- AWS Services Fundamentals — Simplilearn
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanrajendrasuthar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajendrasuthar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/aryanrajendrasuthar](https://linkedin.com/in/aryanrajendrasuthar)
+- Portfolio: [portfolio-pi-three-93.vercel.app](https://portfolio-pi-three-93.vercel.app)
+- Email: aryanrajendrasuthar@gmail.com
