@@ -24,14 +24,17 @@ AWS (EC2, Lambda, S3, SNS, SES) and Azure (AKS, Functions, Service Bus, Blob Sto
 | Project | Description | Stack |
 |---|---|---|
 | [WorkSafe](https://github.com/aryanrajendrasuthar/WorkSafe) | Enterprise occupational health SaaS — 5 user roles, SAML SSO, TOTP MFA, risk scoring engine, BullMQ background jobs, OSHA compliance | React, NestJS, TypeScript, PostgreSQL, Redis |
+| [NeuralOps](https://github.com/aryanrajendrasuthar/NeuralOps) | Enterprise AI agent observability platform — real-time trace ingestion, anomaly detection, cost analytics, and p99 latency monitoring across distributed LLM workloads | Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker, Kubernetes |
+| [ContextEngine](https://github.com/aryanrajendrasuthar/ContextEngine) | Enterprise institutional memory platform — RAG pipeline over organizational knowledge (Slack, GitHub, Jira), Neo4j knowledge graph, vector search, source-attributed Q&A | Java, Spring Boot, Kafka, Qdrant, Neo4j, Python, LangChain |
+| [Trainer](https://github.com/aryanrajendrasuthar/GymTrainer) | Premium cross-platform personal fitness and physiotherapy app — smart routine generation, intelligent set logging, progressive overload engine, evidence-based physio protocols | Next.js, TypeScript, Node.js, PostgreSQL, Supabase |
 | [Real-Time AI Simulation Tool](https://github.com/aryanrajendrasuthar/Real-Time-AI-Simulation-Tool) | Distributed AI courtroom simulation with multi-agent orchestration and RAG-grounded responses | Python, LangChain, FastAPI, Vector DB |
-| [EmoFusion](https://github.com/aryanrajendrasuthar/EmoFusion) | Multimodal emotion detection system combining computer vision and NLP with late-fusion deep learning | PyTorch, TensorFlow, Computer Vision, NLP |
+| [EmoFusion](https://github.com/aryanrajendrasuthar/EmoFusion) | Multimodal emotion detection combining computer vision and NLP with late-fusion deep learning — 82% accuracy on 61K+ samples | PyTorch, TensorFlow, Computer Vision, NLP |
 | [AI Knowledge Assistant](https://github.com/aryanrajendrasuthar/AI-Knowledge-Assistant) | Production RAG system with vector search, Redis caching, and low-latency document-grounded Q&A | TypeScript, LangChain, FastAPI, Redis |
-| [PhysioApp](https://github.com/aryanrajendrasuthar/Physio-App) | Full-stack physiotherapy rehabilitation platform with analytics and secure multi-role authentication | React, Node.js, PostgreSQL, Express |
+| [PhysioApp](https://github.com/aryanrajendrasuthar/Physio-App) | Full-stack physiotherapy rehabilitation platform with analytics and secure multi-role authentication — ASU Innovation Showcase | React, Node.js, PostgreSQL, Express |
 | [Heyy-HP](https://github.com/aryanrajendrasuthar/Heyy-HP) | Personal AI assistant — voice control, YouTube, Apple Reminders sync, Windows automation | Python, OpenAI API, SpeechRecognition |
-| [RandomWordGuess](https://github.com/aryanrajendrasuthar/RandomWordGuess) | Semantic word guessing game using embedding-based similarity scoring | TypeScript, Ollama, Vector Embeddings |
-| [Smart-Quotation-Estimator](https://github.com/aryanrajendrasuthar/Smart-Quotation-Estimator) | Cloud-based quotation management system with PDF generation and edge function architecture | React, Supabase, TypeScript, pdf-lib |
-| [Emergency-SOS](https://github.com/aryanrajendrasuthar/Emergency-SOS) | Real-time emergency alert system with GPS tracking and SMS dispatch | Node.js, Twilio, EJS, Geolocation API |
+| [RandomWordGuess](https://github.com/aryanrajendrasuthar/RandomWordGuess) | Semantic word guessing game using embedding-based cosine similarity scoring | TypeScript, Ollama, Vector Embeddings |
+| [Smart-Quotation-Estimator](https://github.com/aryanrajendrasuthar/Smart-Quotation-Estimator) | Cloud-based ERP quotation system with branded PDF generation and Supabase edge function architecture — deployed for a real business | React, Supabase, TypeScript, pdf-lib |
+| [Emergency-SOS](https://github.com/aryanrajendrasuthar/Emergency-SOS) | Real-time emergency alert system with GPS tracking and Twilio SMS dispatch | Node.js, Twilio, EJS, Geolocation API |
 
 ---
 
@@ -41,38 +44,38 @@ AWS (EC2, Lambda, S3, SNS, SES) and Azure (AKS, Functions, Service Bus, Blob Sto
 Java, Python, TypeScript, JavaScript, SQL, C#, C++, Bash
 
 **Backend**
-Spring Boot, FastAPI, Node.js, Express.js, .NET Core, NestJS, gRPC, REST APIs
+Spring Boot, FastAPI, Node.js, Express.js, NestJS, .NET Core, gRPC, REST APIs
 
 **Frontend**
 React, Next.js, Tailwind CSS, HTML5, CSS3
 
 **Cloud and Infrastructure**
-AWS (EC2, Lambda, S3, SNS, SES), Azure (AKS, Functions, Service Bus), Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps
+AWS (EC2, Lambda, S3, SNS, SES), Azure (AKS, Functions, Service Bus, Blob Storage), Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps
 
 **Databases and Caching**
-PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase, SQLite
+PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase, Neo4j, SQLite
 
 **Streaming and Messaging**
 Apache Kafka, Event-Driven Architecture, Asynchronous Processing
 
 **AI and ML**
-PyTorch, TensorFlow, LangChain, LLMs, RAG, Vector Databases, MLflow, NLP, Computer Vision, scikit-learn, NumPy, Pandas
+PyTorch, TensorFlow, LangChain, LLMs, RAG, Vector Databases (Qdrant, Pinecone), MLflow, NLP, Computer Vision, scikit-learn, NumPy, Pandas, Ollama
 
 **Security**
 OAuth2, JWT, RBAC, SAML 2.0, TOTP MFA, TLS Encryption
 
 **Observability**
-Prometheus, Grafana, Distributed Tracing, Structured Logging
+Prometheus, Grafana, Distributed Tracing, Structured Logging, OpenTelemetry
 
 ---
 
 ## Experience
 
-**Software Engineer — Ignite Infosys** (Jan 2021 – May 2023)
-Spring Boot and .NET Core microservices on AWS and Azure, supporting 100K+ active users across 5+ enterprise applications. Kafka streaming pipelines processing 50K+ daily events. React and TypeScript frontends consumed by 100K+ users. CI/CD via Azure DevOps cutting deployment cycle from 2 days to under 4 hours.
+**Software Engineer — Avnet** (Dec 2025 – Present)
+High-throughput microservices platform using Java, Spring Boot, and Apache Kafka processing 2M+ daily transactions. Low-latency REST and gRPC APIs with Node.js and .NET Core. Cloud-native deployments on AWS and Azure maintaining 99.98% uptime. AI-driven semantic search using vector databases and LangChain-based RAG pipelines.
 
-**Software Engineer — Jayraj Fabrication** (May 2023 – May 2024)
-Cloud-native ERP platform across 8 microservices using Python, Java Spring Boot, and Node.js. REST and gRPC APIs serving 10K+ daily requests with sub-100ms response times. Redis caching and database indexing improvements boosting backend performance by 40%. Zero critical authentication incidents with OAuth2, JWT, and RBAC.
+**Software Engineer — Orion Technolab** (Jan 2021 – Jul 2024)
+Scalable backend systems using Python, Django, and FastAPI handling 500K+ daily API requests. React and Next.js frontend applications. Docker and Kubernetes containerized deployments with zero-downtime releases. OAuth2 and JWT security implementation. Redis caching and machine learning integration using TensorFlow and MLflow.
 
 ---
 
@@ -102,8 +105,15 @@ Smt. Kashibai Navale College of Engineering | 2019 – 2023
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanrajendrasuthar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajendrasuthar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 ## Contact
 
 - LinkedIn: [linkedin.com/in/aryanrajendrasuthar](https://linkedin.com/in/aryanrajendrasuthar)
-- Portfolio: [portfolio-pi-three-93.vercel.app](https://portfolio-pi-three-93.vercel.app)
+- Portfolio: [aryan-suthar-portfolio.vercel.app](https://aryan-suthar-portfolio.vercel.app)
 - Email: aryanrajendrasuthar@gmail.com
