@@ -6,7 +6,7 @@ I build scalable backend systems and cloud-native platforms that handle real wor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanrajendrasuthar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanrajendrasuthar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryan--suthar-10B981?style=flat&logo=vercel&logoColor=white)](https://aryan-suthar-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-aryanrajendrasuthar@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryanrajendrasuthar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aryansuthar6701@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryansuthar6701@gmail.com)
 
 ---
 
@@ -119,4 +119,4 @@ Scalable backend systems using Python, Django, and FastAPI handling 500K+ daily 
 
 - LinkedIn: [linkedin.com/in/aryanrajendrasuthar](https://linkedin.com/in/aryanrajendrasuthar)
 - Portfolio: [aryan-suthar-portfolio.vercel.app](https://aryan-suthar-portfolio.vercel.app)
-- Email: [aryanrajendrasuthar@gmail.com](mailto:aryanrajendrasuthar@gmail.com)
+- Email: [aryansuthar6701@gmail.com](mailto:aryansuthar6701@gmail.com)
