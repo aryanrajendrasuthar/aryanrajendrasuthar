@@ -102,10 +102,6 @@ Scalable backend systems using Python, Django, and FastAPI handling 500K+ daily 
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanrajendrasuthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajendrasuthar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanrajendrasuthar&theme=tokyo-night&hide_border=true&area=true)
 
