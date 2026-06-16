@@ -115,4 +115,4 @@ Scalable backend systems using Python, Django, and FastAPI handling 500K+ daily 
 
 - LinkedIn: [linkedin.com/in/aryanrajendrasuthar](https://linkedin.com/in/aryanrajendrasuthar)
 - Portfolio: [aryan-suthar-portfolio.vercel.app](https://aryan-suthar-portfolio.vercel.app)
-- Email: [aryansuthar6701@gmail.com](mailto:aryansuthar6701@gmail.com)
+- Email: [aryan.s@itjobinbox.com](mailto:aryan.s@itjobinbox.com)
