@@ -6,7 +6,7 @@ I build scalable backend systems and cloud-native platforms that handle real wor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanrajendrasuthar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanrajendrasuthar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryan--suthar-10B981?style=flat&logo=vercel&logoColor=white)](https://aryan-suthar-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-aryansuthar6701@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryansuthar6701@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aryan.s@itjobinbox.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aryan.s@itjobinbox.com)
 
 ---
 
@@ -24,6 +24,10 @@ I build scalable backend systems and cloud-native platforms that handle real wor
 
 | Project | Description | Stack |
 |---|---|---|
+| [CoreSuite](https://github.com/aryanrajendrasuthar/CoreSuite) | Enterprise business management platform — product, CRM, inventory, order, and reporting microservices behind a single API gateway, Argon2id + TOTP 2FA, AES-256-GCM field-level encryption | React, TypeScript, Redux, Java, Spring Boot, MySQL, MongoDB, Docker |
+| [SupplyForge](https://github.com/aryanrajendrasuthar/SupplyForge) | Supply chain & inventory management platform — six Flask microservices behind a GraphQL gateway, async AI-assisted validation queue, Saga-pattern order/inventory sync | Python, Flask, Ariadne GraphQL, SQL Server, MongoDB, AWS SQS, React, TypeScript |
+| [OpsCortex](https://github.com/aryanrajendrasuthar/OpsCortex) | Operational intelligence platform — 7 AI-powered modules sharing one intelligence graph across Python/FastAPI, Java/Spring Boot, and Node.js backends | Python, FastAPI, Java, Spring Boot, Node.js, Next.js, Neo4j, Kafka, Kubernetes |
+| [RAGIncidentResolution](https://github.com/aryanrajendrasuthar/RAGIncidentResolution) | RAG-powered incident resolution copilot for cloud/SRE teams — FAISS vs. Qdrant retrieval benchmarked against an Elasticsearch/BM25 baseline | Python, LangChain, FastAPI, FAISS, Qdrant, Elasticsearch, MLflow |
 | [WorkSafe](https://github.com/aryanrajendrasuthar/WorkSafe) | Enterprise occupational health SaaS — 5 user roles, SAML SSO, TOTP MFA, risk scoring engine, BullMQ background jobs, OSHA compliance | React, NestJS, TypeScript, PostgreSQL, Redis |
 | [NeuralOps](https://github.com/aryanrajendrasuthar/NeuralOps) | Enterprise AI agent observability platform — real-time trace ingestion, anomaly detection, cost analytics, and p99 latency monitoring across distributed LLM workloads | Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker, Kubernetes |
 | [ContextEngine](https://github.com/aryanrajendrasuthar/ContextEngine) | Enterprise institutional memory platform — RAG pipeline over organizational knowledge (Slack, GitHub, Jira), Neo4j knowledge graph, vector search, source-attributed Q&A | Java, Spring Boot, Kafka, Qdrant, Neo4j, Python, LangChain |
@@ -69,10 +73,10 @@ I build scalable backend systems and cloud-native platforms that handle real wor
 ## Experience
 
 **Software Engineer — Avnet** (Dec 2025 – Present)
-High-throughput microservices platform using Java, Spring Boot, and Apache Kafka processing 2M+ daily transactions. Low-latency REST and gRPC APIs with Node.js and .NET Core. Cloud-native deployments on AWS and Azure maintaining 99.98% uptime. AI-driven semantic search using vector databases and LangChain-based RAG pipelines.
+Architected a high-throughput microservices platform using Java, Spring Boot, and Apache Kafka, processing 2M+ daily transactions and improving system scalability by 45% under peak loads. Engineered low-latency REST and gRPC APIs with Node.js and .NET Core, reducing response time by 38%. Optimized cloud-native deployments on AWS (EC2, Lambda, S3) and Azure (AKS, Service Bus), cutting infrastructure costs by 27% while maintaining 99.98% uptime. Implemented event-driven data pipelines with Kafka, increasing data ingestion throughput by 3.2x. Designed database schemas and indexing strategies across PostgreSQL and MongoDB, improving query performance by 41%. Integrated AI-driven semantic search using vector databases and LangChain-based RAG pipelines, improving search relevance by 33%.
 
 **Software Engineer — Orion Technolab** (Jan 2021 – Jul 2024)
-Scalable backend systems using Python, Django, and FastAPI handling 500K+ daily API requests. React and Next.js frontend applications. Docker and Kubernetes containerized deployments with zero-downtime releases. OAuth2 and JWT security implementation. Redis caching and machine learning integration using TensorFlow and MLflow.
+Developed scalable backend systems using Python, Django, and FastAPI, handling 500K+ daily API requests with a 35% improvement in processing efficiency. Built responsive frontend applications with React and Next.js, boosting user engagement by 28%. Deployed containerized applications using Docker and Kubernetes, achieving zero-downtime releases and improving deployment frequency by 2.5x. Automated CI/CD pipelines with GitHub Actions and Bash scripting, reducing manual deployment effort by 40%. Strengthened API security with OAuth2 and JWT-based authentication, reducing unauthorized access incidents by 60%. Leveraged Redis caching strategies, decreasing database load by 37%. Collaborated on machine learning integration using TensorFlow and MLflow, increasing predictive model accuracy by 22%.
 
 ---
 
@@ -90,13 +94,11 @@ Scalable backend systems using Python, Django, and FastAPI handling 500K+ daily 
 ![Java](https://img.shields.io/badge/Java_Foundations-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps_Professional-PagerDuty_+_LinkedIn-06AC38?style=flat&logo=pagerduty&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_Project_Management-Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript_Foundations-Mozilla-FF7139?style=flat&logo=firefox-browser&logoColor=white)
-![Career](https://img.shields.io/badge/Career_Essentials_Software_Dev-Microsoft_+_LinkedIn-0078D4?style=flat&logo=microsoft&logoColor=white)
-![TestMu](https://img.shields.io/badge/AI_Software_Testing_Professional-TestMu-6366F1?style=flat)
-![TestMu](https://img.shields.io/badge/AI_Test_Automation_Professional-TestMu-6366F1?style=flat)
-![Security](https://img.shields.io/badge/Security_Essentials-Microsoft_+_LinkedIn-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Google](https://img.shields.io/badge/Google_Analytics-Certified-E37400?style=flat&logo=google-analytics&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Fundamentals-Simplilearn-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Programming_Foundations-Design_Patterns-6366F1?style=flat)
+![Data Structures](https://img.shields.io/badge/Java-Data_Structures-000000?style=flat&logo=jetbrains&logoColor=white)
+![OOP](https://img.shields.io/badge/Java-Object--Oriented_Programming-000000?style=flat&logo=jetbrains&logoColor=white)
+![JDBC](https://img.shields.io/badge/Learning-JDBC-000000?style=flat&logo=jetbrains&logoColor=white)
+![LambdaTest](https://img.shields.io/badge/Test_Automation_Professional-LambdaTest-FF6A00?style=flat)
 
 ---
 
